@@ -1,0 +1,4 @@
+
+class GenericATError(Exception):
+    pass
+
